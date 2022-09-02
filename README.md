@@ -1,2 +1,4 @@
 # fastai-walkthru02-2022
-Repo for Live Coding Session 2 of Fast.AI 2022
+
+This repo is based on the Live Coding Session 2 of the Fast.AI course 2022
+https://www.youtube.com/watch?v=0pWjZByJ3Lk
